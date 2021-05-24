@@ -1,5 +1,6 @@
 
-# *Paradigms of Artificial Intelligence Programming* 
+# *Ｐａｒａｄｉｇｍｓ ｏｆ Ａｒｔｉｆｉｃｉａｌ Ｉｎｔｅｌｌｉｇｅｎｃｅ Ｐｒｏｇｒａｍｍｉｎｇ
+* 
 
 ![PAIP](paip-cover.gif)
 
