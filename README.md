@@ -1,12 +1,11 @@
 # *𝕻𝖆𝖗𝖆𝖉𝖎𝖌𝖒𝖘 𝖔𝖋 𝕬𝖗𝖙𝖎𝖋𝖎𝖈𝖎𝖆𝖑 𝕴𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕻𝖗𝖔𝖌𝖗𝖆𝖒𝖒𝖎𝖓𝖌
-*
 
 ![PAIP](paip-cover.gif)
 
 This is an open-source repository for the book *Paradigms of Artificial
 Intelligence Programming: Case Studies in Common Lisp* by Peter Norvig (1992), and the code contained therein.  The copyright has reverted to the author, who has shared it here under MIT license.
 
-## The Book
+## 𝕿𝖍𝖊 𝕭𝖔𝖔𝖐
 
 The book is available in these formats:
 
@@ -15,7 +14,7 @@ The book is available in these formats:
 * epub: [see releases](https://github.com/norvig/paip-lisp/releases/tag/1.1) for a cleaned up version downloaded from Safari (much cleaner than the scanned versions)
 * and `chapter?.md` markdown files:
 
-# Table of Contents
+# 𝕿𝖆𝖇𝖑𝖊 𝖔𝖋 𝕮𝖔𝖓𝖙𝖊𝖓𝖙𝖘
 
 - **Paradigms of Artificial Intelligence Programming**
   * [Front matter](docs/frontmatter.md)
@@ -53,7 +52,7 @@ The book is available in these formats:
   
 As seen on [TV](https://norvig.com/paip-tv.html). See also: [errata](https://norvig.com/paip-errata.html), [comments](https://norvig.com/paip-comments.html),  [retrospective](https://norvig.com/Lisp-retro.html).
 
-## The Lisp Files
+## 𝕿𝖍𝖊 𝕷𝖎𝖘𝖕 𝕱𝖎𝖑𝖊𝖘
 
 The [Lisp code files](https://github.com/norvig/paip-lisp/tree/master/lisp) are listed here:
 
@@ -109,7 +108,7 @@ The [Lisp code files](https://github.com/norvig/paip-lisp/tree/master/lisp) are 
 | 23   | [compile3.lisp](lisp/compile3.lisp) | Compiler with peephole optimizer                                       |
 | 23   | [compopt.lisp](lisp/compopt.lisp)   | Peephole optimizers for compile3.lisp                                  |
 
-# Running the Code
+# 𝕽𝖚𝖓𝖓𝖎𝖓𝖌 𝖙𝖍𝖊 𝕮𝖔𝖉𝖊
 
 There is no single "application" to run. Rather, there is a collection of source code files,
 duplicating the code in the book. You can read and/or run whatever you like. Lisp is an interactive language,
@@ -126,7 +125,7 @@ or a chapter number or a list of chapter numbers, can be used to see examples
 of the use of various functions.  For example, `(do-examples 1)` shows
 the examples from chapter 1. Access this by doing `(requires "examples")`.
 
-# Other resources
+# 𝕺𝖙𝖍𝖊𝖗 𝖗𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘
 
 * I wrote a [retrospective](http://norvig.com/Lisp-retro.html) on the book.
 * There is a nice [Python version](https://github.com/dhconnelly/paip-python) of the code, by Georgia Tech.
